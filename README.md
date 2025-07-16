@@ -30,7 +30,7 @@ As principais escolhas de layout e usabilidade foram orientadas pelas seguintes 
 
 ## 📷 Capturas de Tela
 
-As imagens do wireframe estão localizadas na pasta `/images`, incluindo:
+As imagens do wireframe estão localizadas na pasta `imagens`, incluindo:
 
 - `Cabeçalho.png` — área superior com logo e barra de busca
 - `Banner-Promocional.png` — destaque visual com chamada para promoção
@@ -39,7 +39,7 @@ As imagens do wireframe estão localizadas na pasta `/images`, incluindo:
 
 ## 🚀 Como Visualizar
 
-Você pode visualizar o wireframe diretamente nas imagens da pasta `/images`.
+Você pode visualizar o wireframe diretamente nas imagens da pasta `imagens`.
 
 ## 👩‍🎓 Autora
 
